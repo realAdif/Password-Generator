@@ -1,5 +1,5 @@
 # Password-Generator
-URL: https://github.com/realAdif/Password-Generator
+URL: https://realadif.github.io/Password-Generator/
 
 ![image](https://user-images.githubusercontent.com/90451018/171558241-74963d7f-b8b8-4b34-a0c2-411c1de7d043.png)
 
